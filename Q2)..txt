@@ -1,0 +1,34 @@
+Q2). Will you go ahead with Subscription lock at the end of day 2 or day 1?
+
+Based on the provided information and the user funnels for Scenario A (January) and Scenario B (February), there are considerations for both Subscription Lock placements after Day 1 and Day 2. Let's analyze the implications of each:
+
+Subscription Lock at the End of Day 1 (Marketing Mix A):
+
+Pros:
+
+Higher completion rates for Module 1, Day 1, and Day 2 compared to Marketing Mix B.
+The subscription lock is introduced earlier in the user journey, potentially capturing users' commitment before they disengage.
+Cons:
+
+Lower overall signup rate compared to Marketing Mix B.
+May result in a higher drop-off rate before the subscription lock due to the earlier introduction.
+Subscription Lock at the End of Day 2 (Marketing Mix B):
+
+Pros:
+
+Higher signup rate compared to Marketing Mix A.
+Users have experienced more of the app's content before encountering the subscription lock, potentially increasing perceived value.
+Cons:
+
+Lower completion rates for Module 1, Day 1, and Day 2 compared to Marketing Mix A.
+Users may have a delayed exposure to the subscription lock, leading to a higher likelihood of drop-offs before reaching the paywall.
+Recommendation:
+
+Considering the key performance indicators (KPIs) and the goal of maximizing revenue, it would be prudent to conduct further analysis and experimentation to determine the optimal placement of the subscription lock. A/B testing can be employed to compare the performance of Marketing Mix A (Subscription Lock at the End of Day 1) and Marketing Mix B (Subscription Lock at the End of Day 2) over an extended period.
+
+Specifically, you could test variations such as placing the subscription lock at the end of Day 1.5 or introducing a limited-time discount at the subscription lock to encourage immediate conversions.
+
+The decision should be based on the balance between maximizing signups, retaining user engagement, and effectively converting users into subscribers. The choice may depend on user behavior, preferences, and responses to the subscription lock timing.
+
+In summary, a data-driven approach through experimentation and analysis is recommended to make an informed decision on the optimal placement of the subscription lock to maximize revenue for the QuitSure App.
+

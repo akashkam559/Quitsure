@@ -1,0 +1,103 @@
+Q3). Let's assume that marketing mix is google ads and Facebook ads (marketing channels).
+A= 60% Google+40% Fb.
+B=40% Google+60% Fb
+We use google analytics. We get ""standard" users and traffic data reports of Google and Fb channels by default in GA. But we don't have subscription numbers or day based (of program) progress for these channels separately (because we haven't sent the subscription events to google analytics).
+We want to get the subscription rate for both Facebook and google in scenario A. How will you find that out INDIRECTLY in approximate way?
+
+-What can you say about marketing mixes: A and B
+
+
+
+
+To indirectly estimate the subscription rate for both Facebook and Google in Scenario A, you can use the available data and make assumptions based on the overall conversion rates. Here's a step-by-step approach:
+
+Step 1: Calculate Overall Conversion Rates
+
+Conversion Rate from Signups to Subscription:
+For Scenario A:
+Conversion Rate from Signups to Subscription
+=
+Purchase of Subscription
+Signups
+Conversion Rate from Signups to Subscription= 
+Signups
+Purchase of Subscription
+​
+ 
+Conversion Rate from Signups to Subscription
+=
+10
+75
+≈
+0.1333
+Conversion Rate from Signups to Subscription= 
+75
+10
+​
+ ≈0.1333
+Step 2: Allocate Conversion Rates to Channels
+
+Assumption: Apply Overall Conversion Rate to Channel Mix:
+
+Assuming that the conversion rates from signups to subscription are similar for both Google and Facebook, you can distribute the overall conversion rate based on the channel mix. Given that Scenario A is 60% Google and 40% Facebook, apply the conversion rates accordingly.
+Conversion Rate (Google)
+≈
+0.1333
+×
+0.60
+Conversion Rate (Google)≈0.1333×0.60
+Conversion Rate (Facebook)
+≈
+0.1333
+×
+0.40
+Conversion Rate (Facebook)≈0.1333×0.40
+
+Step 3: Calculate Estimated Subscription Numbers for Each Channel
+
+Estimate Subscription Numbers for Each Channel:
+
+Use the allocated conversion rates for Google and Facebook to estimate the subscription numbers.
+Estimated Subscriptions (Google)
+≈
+Conversion Rate (Google)
+×
+Signups from Google
+Estimated Subscriptions (Google)≈Conversion Rate (Google)×Signups from Google
+Estimated Subscriptions (Facebook)
+≈
+Conversion Rate (Facebook)
+×
+Signups from Facebook
+Estimated Subscriptions (Facebook)≈Conversion Rate (Facebook)×Signups from Facebook
+
+Assuming the split is 60% Google and 40% Facebook:
+Estimated Subscriptions (Google)
+≈
+0.1333
+×
+0.60
+×
+75
+Estimated Subscriptions (Google)≈0.1333×0.60×75
+Estimated Subscriptions (Facebook)
+≈
+0.1333
+×
+0.40
+×
+75
+Estimated Subscriptions (Facebook)≈0.1333×0.40×75
+Step 4: Validate with Known Data
+
+Compare Estimated vs. Actual Subscription Numbers:
+Cross-check the estimated subscription numbers with the actual subscription numbers provided in Scenario A. This will give you an indication of how well the assumptions align with the actual data.
+Interpretation:
+
+If the estimated subscription numbers align closely with the actual subscription numbers for Scenario A, it suggests that the assumption of similar conversion rates across channels is reasonable.
+If there's a significant discrepancy, it may indicate variations in conversion rates between Google and Facebook, and further refinement of the estimation approach may be needed.
+Analysis of Marketing Mix A and B:
+
+Marketing Mix A (60% Google + 40% Facebook) has a higher overall conversion rate from signups to subscription compared to Marketing Mix B (40% Google + 60% Facebook).
+This higher conversion rate may be attributed to the higher percentage of Google ads in Marketing Mix A.
+Further analysis is needed to understand the specific performance and user behavior on each platform to optimize the channel mix for maximizing revenue.

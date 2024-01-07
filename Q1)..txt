@@ -1,0 +1,51 @@
+Q1). What can you saya about mix of A &B 
+
+Based on the provided information and the user funnel for Scenario A (January) and Scenario B (February), we can make several observations about Marketing Mix A and Marketing Mix B:
+
+Subscription Lock Placement:
+
+Marketing Mix A: The subscription lock is implemented after Day 1.
+Marketing Mix B: The subscription lock is implemented after Day 2.
+Downloads:
+
+Marketing Mix A: 100 downloads.
+Marketing Mix B: 100 downloads.
+Signups:
+
+Marketing Mix A: 75 signups.
+Marketing Mix B: 80 signups.
+Module 1 Completion:
+
+Marketing Mix A: 50 users complete Module 1.
+Marketing Mix B: 30 users complete Module 1.
+Day 1 Completion:
+
+Marketing Mix A: 30 users complete Day 1.
+Marketing Mix B: 16 users complete Day 1.
+Day 2 Completion:
+
+Marketing Mix A: 20 users complete Day 2.
+Marketing Mix B: 6 users complete Day 2.
+Subscription Purchase:
+
+Marketing Mix A: 10 users purchase the subscription.
+Marketing Mix B: 9 users purchase the subscription.
+Analysis:
+
+Downloads and Signups: Both marketing mixes have the same number of downloads, but Marketing Mix B has a slightly higher signup rate. This might indicate that the messaging or approach in Marketing Mix B is more effective in converting downloads into signups.
+
+Module 1 Completion: Marketing Mix A has a higher completion rate for Module 1 compared to Marketing Mix B. This suggests that the content or presentation of Module 1 in Marketing Mix A may be more engaging or effective in retaining users.
+
+Day 1 and Day 2 Completion: Both Marketing Mix A and B show a decline in user engagement as they progress through the program. However, Marketing Mix A has higher completion rates for both Day 1 and Day 2. This may indicate that the content or structure of the program in Marketing Mix A is more compelling or retains user interest better.
+
+Subscription Purchase: Despite Marketing Mix A having higher completion rates for Module 1, Day 1, and Day 2, both scenarios have a similar conversion rate for subscription purchases. However, Marketing Mix A has a slightly higher conversion rate.
+
+Recommendations:
+
+Optimal Subscription Lock Placement: Comparing the two scenarios, placing the subscription lock after Day 1 (Marketing Mix A) seems to be more effective in converting users. It aligns with the principle of providing enough value before asking for a financial commitment.
+
+Content Optimization: Marketing Mix B may benefit from reviewing and optimizing the content or presentation of Module 1 to improve completion rates. Understanding why users drop off after Module 1 could lead to better engagement strategies.
+
+User Engagement Strategies: Both scenarios show a decline in user engagement as they progress through the program. Implementing strategies to maintain user interest and motivation throughout the 6-day program could improve overall completion rates and increase subscription purchases.
+
+Further Analysis: Conducting user feedback surveys or analyzing user behavior data could provide insights into the specific aspects of the program that users find most valuable or challenging. This information can guide further improvements to the app and its marketing strategy.
